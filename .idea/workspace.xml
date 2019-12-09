@@ -35,7 +35,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/part4" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,25 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build go-web-programming-study/part4/03">
-    <configuration name="go build go-web-programming-study/part3/01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go-web-programming-study" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/part3/01/main.go" />
-      <package value="go-web-programming-study/part3/01" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build go-web-programming-study/part3/07" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go-web-programming-study" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/part3/07/main.go" />
-      <package value="go-web-programming-study/part3/07" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build go-web-programming-study/part4/05">
     <configuration name="go build go-web-programming-study/part4/01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-web-programming-study" />
       <working_directory value="$PROJECT_DIR$" />
@@ -103,13 +85,31 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build go-web-programming-study/part4/04" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-web-programming-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/part4/04/main.go" />
+      <package value="go-web-programming-study/part4/04" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build go-web-programming-study/part4/05" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-web-programming-study" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/part4/05/main.go" />
+      <package value="go-web-programming-study/part4/05" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go-web-programming-study/part4/05" />
+        <item itemvalue="Go Build.go build go-web-programming-study/part4/04" />
         <item itemvalue="Go Build.go build go-web-programming-study/part4/03" />
         <item itemvalue="Go Build.go build go-web-programming-study/part4/02" />
         <item itemvalue="Go Build.go build go-web-programming-study/part4/01" />
-        <item itemvalue="Go Build.go build go-web-programming-study/part3/01" />
-        <item itemvalue="Go Build.go build go-web-programming-study/part3/07" />
       </list>
     </recent_temporary>
   </component>
